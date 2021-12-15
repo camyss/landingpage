@@ -1,0 +1,6 @@
+Criar uma landing page no qual os seus usuários sejam capazes de visualizar o layout ideal para o site,
+dependendo do tamanho da tela do dispositivo.
+É necessário que os elementos interativos na página: 
+Receba uma mensagem de erro quando o formulário for enviado e:
+1) Qualquer campo de entrada estiver vazio;
+2) O endereço de e-mail não estiver formatado corretamente.
